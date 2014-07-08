@@ -1,0 +1,6 @@
+*.css
+*.sublime-project
+*.sublime-workspace
+.bin
+.directory
+node_modules
